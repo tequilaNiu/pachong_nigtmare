@@ -11,8 +11,5 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "nightmare": "^2.10.0"
-  },
-  "devDependencies": {
-    "bcrypt-nodejs": "0.0.3"
   }
 }
